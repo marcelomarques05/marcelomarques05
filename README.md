@@ -1,4 +1,4 @@
-![Banner Image](./starwars.png)
+<p align="center"><img src="./starwars.png" width="500"></p>
 
 <h2>Hey! 👋</h2>
 
