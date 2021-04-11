@@ -1,6 +1,4 @@
-![Lakshmanan Meiyappan Banner Image](./starwars.png)
-<!-- <h2 align='center'>MMarques</h2>
-<p align='center'><b>Graduate Student at University of Illinois at Chicago</b></p> -->
+![Banner Image](./starwars.png)
 
 <h2>Hey! 👋</h2>
 
