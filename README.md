@@ -2,8 +2,6 @@
 
 <h2>Hey! 👋</h2>
 
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=marcelomarques05.marcelomarques05)](https://github.com/marcelomarques05) [![GitHub followers](https://img.shields.io/github/followers/marcelomarques05.svg?style=social&label=Follow)](https://github.com/marcelomarques05?tab=followers)
-
 I'm Marcelo! 
 - <i>Currently:</i> Cloud Architect at GFT Group. 
 
