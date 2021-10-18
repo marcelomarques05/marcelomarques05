@@ -1,4 +1,4 @@
-<p align="center"><img src="./darth-vader.png" width="500"></p>
+<p align="center"><img src="./darth-vader.png" width="700"></p>
 
 <h2>Hey! 👋</h2>
 
