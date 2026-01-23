@@ -12,7 +12,7 @@ I'm Marcelo!
 
 <h2>👀 GitHub Stats</h2>
 
-[![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=marcelomarques05)](#)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=marcelomarques05)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelomarques05&layout=compact)](#)
 
