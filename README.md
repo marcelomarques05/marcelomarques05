@@ -3,16 +3,12 @@
 <h2>Hey! 👋</h2>
 
 I'm Marcelo! 
-- <i>Currently:</i> Cloud Security Architect at GFT Group. 
+- <i>Currently:</i> Senior Cloud Engineer/Architect at GFT Group. 
 
 <h2>💻 I'm Currently Learning</h2>
 
-- Machine Learning
-- Data Science
-- Python Programming
-
-<h2>Currently working on:</h2>
-<h4>GCP Security Architecture for some HUGE companies!!</h4>
+- Backend Development (Python/Javascript)
+- Generative AI (Google tech, mostly)
 
 <h2>👀 GitHub Stats</h2>
 
