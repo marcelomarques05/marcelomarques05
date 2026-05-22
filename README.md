@@ -2,23 +2,11 @@
 
 <h2>Hey! 👋</h2>
 
-I'm Marcelo! 
-- <i>Currently:</i> Senior Cloud Engineer/Architect at GFT Group. 
+I'm Marcelo! 💻
 
-<h2>💻 I'm Currently Learning</h2>
-
+- Senior Cloud Engineer/Architect
 - Backend Development (Python/Javascript)
 - Generative AI (Google tech, mostly)
-
-<h2>👀 GitHub Stats</h2>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=marcelomarques05)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelomarques05&layout=compact)](#)
-
-<h2> About Me⚡:</h2>
-
-You can check my prefessional info [here](https://smarques.com).
 
 <h2>📫 How to reach me:</h2>
 
